@@ -2,9 +2,6 @@ import streamlit as st
 import pickle
 import pandas as pd
 
-from sklearn.preprocessing import LabelEncoder, OneHotEncoder
-from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier
-
 # Buat Form Isian
 def main():
 
